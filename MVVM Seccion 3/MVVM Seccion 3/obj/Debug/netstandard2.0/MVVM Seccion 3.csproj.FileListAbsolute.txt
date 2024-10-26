@@ -1,0 +1,17 @@
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\bin\Debug\netstandard2.0\MVVM Seccion 3.deps.json
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\bin\Debug\netstandard2.0\MVVM Seccion 3.dll
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\bin\Debug\netstandard2.0\ref\MVVM Seccion 3.dll
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\bin\Debug\netstandard2.0\MVVM Seccion 3.pdb
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.csproj.AssemblyReference.cache
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.AssemblyInfoInputs.cache
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.AssemblyInfo.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.csproj.CoreCompileInputs.cache
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.dll
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\refint\MVVM Seccion 3.dll
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.pdb
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Pagina1.xaml.g.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.sourcelink.json
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Pagina2.xaml.g.cs

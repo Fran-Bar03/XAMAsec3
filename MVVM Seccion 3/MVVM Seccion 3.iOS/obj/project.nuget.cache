@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajbZRmZWfhY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.iOS\\MVVM Seccion 3.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hachi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hachi\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Hachi\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
