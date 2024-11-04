@@ -6,8 +6,18 @@
 
 
     <Grid BackgroundColor="#464FBC">
+        <Image Source="Flechavolver.png" 
+       VerticalOptions="Start"
+       HeightRequest="60"
+       HorizontalOptions="Start"
+       Margin="10"
+       >
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding Volvercommand}"/>
+            </Image.GestureRecognizers>
+        </Image>
         <StackLayout VerticalOptions="Center">
-           
+
             <StackLayout Orientation="Horizontal"
                          HorizontalOptions="Center">
 
@@ -23,7 +33,6 @@
                        Keyboard="Numeric"/>
 
             </StackLayout>
-
             <StackLayout Orientation="Horizontal"
              HorizontalOptions="Center">
 
@@ -39,8 +48,6 @@
            Keyboard="Numeric"/>
 
             </StackLayout>
-
-
             <Button Text="Sumar"
                 VerticalOptions="Center"
                 HorizontalOptions="Center"
@@ -49,20 +56,50 @@
                     Background="white"
                     FontAttributes="Bold"
                     CornerRadius="5"/>
-
-
             <Label Text="{Binding R}"
                    TextColor="White"
                    HorizontalOptions="Center"
                    FontAttributes="Bold"
                    FontSize="40"/>
-
             <Button Text="Ir pagina 2"
                     HorizontalOptions="Center"
                     CornerRadius="5"
                     BackgroundColor="White"
                     FontAttributes="Bold"
                     Command="{Binding Navegarpagina2command}"/>
+            <StackLayout HorizontalOptions="Center"
+                         Orientation="Horizontal">
+
+                <Label TextColor="White"
+                       FontAttributes="Bold"
+                       Text="Picker"
+                       VerticalOptions="Center"/>
+                <Picker TextColor="White"
+                        HorizontalOptions="FillAndExpand"
+                        Title="Seleccione una opcion"
+                        TitleColor="White"
+                        SelectedItem="{Binding SeleccionarTipouser}">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Administrador</x:String>
+                            <x:String>Empleado</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+            <StackLayout HorizontalOptions="Center">
+                <DatePicker TextColor="White"
+                            Date="{Binding Fecha,Mode=TwoWay}">
+
+                    <DatePicker.Format>dd/MM/yyyy</DatePicker.Format>
+                    
+                </DatePicker>
+                <Label Text="{Binding Resultadofecha}"
+                       TextColor="White"
+                       FontAttributes="Bold"
+                       FontSize="20"/>
+            </StackLayout>
+
         </StackLayout>
     </Grid>
     

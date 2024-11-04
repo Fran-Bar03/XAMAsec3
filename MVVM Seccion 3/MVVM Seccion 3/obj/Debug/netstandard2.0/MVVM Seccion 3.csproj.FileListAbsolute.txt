@@ -15,3 +15,8 @@ C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Secc
 C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Pagina1.xaml.g.cs
 C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\MVVM Seccion 3.sourcelink.json
 C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Pagina2.xaml.g.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Crudpokemon.xaml.g.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Menuprincipal.xaml.g.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Pokemon\Listapokemon.xaml.g.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Pokemon\Registrarpokemon.xaml.g.cs
+C:\Users\Hachi\Desktop\Xamarin Seccion 3\MVVM Seccion 3\MVVM Seccion 3\MVVM Seccion 3\obj\Debug\netstandard2.0\Vistas\Pokemon\Detallepokemon.xaml.g.cs

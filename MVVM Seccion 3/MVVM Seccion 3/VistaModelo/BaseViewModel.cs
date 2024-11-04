@@ -37,6 +37,23 @@ namespace MVVM_Seccion_3.VistaModelo
         }
 
 
+        protected bool SetProperty<T>(ref T backingStore, T value, [CallerMemberName] string propertyName = "")
+        {
+            if (EqualityComparer<T>.Default.Equals(backingStore, value))
+                return false;
+
+            backingStore = value;
+            OnPropertyChanged(propertyName);
+            return true;
+        }
+
+
+        protected void OnpropertyChanged([CallerMemberName] string nombre = "")
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nombre));
+        }
+
+
 
 
 

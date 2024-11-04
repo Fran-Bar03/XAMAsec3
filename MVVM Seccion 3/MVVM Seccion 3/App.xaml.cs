@@ -1,4 +1,5 @@
 ﻿using MVVM_Seccion_3.Vistas;
+using MVVM_Seccion_3.Vistas.Pokemon;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,9 +12,9 @@ namespace MVVM_Seccion_3
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Pagina1());
+            MainPage = new NavigationPage(new Listapokemon());
         }
-
+        
         protected override void OnStart()
         {
         }
