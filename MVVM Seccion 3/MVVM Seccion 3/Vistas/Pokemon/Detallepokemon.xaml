@@ -4,7 +4,7 @@
              x:Class="MVVM_Seccion_3.Vistas.Pokemon.Detallepokemon"
              NavigationPage.HasNavigationBar="False"
              xmlns:sharpnado="clr-namespace:Sharpnado.MaterialFrame;assembly=Sharpnado.MaterialFrame">
-    <Grid>
+    <Grid BindingContext="{Binding parametrosRecibe}">
         <Grid.Background>
             <LinearGradientBrush StartPoint="1,0">
                 <GradientStop Color="#ff8243" Offset="0.1"/>
@@ -15,15 +15,20 @@
             <Image Source="https://imgfz.com/i/qKJhmGu.png"
                    HeightRequest="40"
                    HorizontalOptions="Start"
-                   Margin="0,10,0,0"/>
-            <Label Text="#001"
+                   Margin="0,10,0,0">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding 
+        Volvercommand}"/>
+                </Image.GestureRecognizers>
+            </Image>
+            <Label Text="{Binding Nroorden}"
                    FontSize="50"
                    FontAttributes="Bold"
                    TextColor="white"
                    />
-            <Image Source="https://imgfz.com/i/mdRThon.png"
+            <Image Source="{Binding Icono}"
                    HeightRequest="300"/>
-            <Label Text="charizard"
+            <Label Text="{Binding Nombre}"
                    FontSize="40"
                    FontAttributes="Bold"
                    HorizontalOptions="Center"
@@ -37,7 +42,7 @@
                 <StackLayout Orientation="Horizontal"
                              Margin="20,10,20,10">
                     <StackLayout>
-                        <Label Text="Fuego"
+                        <Label Text="{Binding Poder}"
                                FontSize="30"
                                FontAttributes="Bold"
                                TextColor="White"/>
@@ -51,12 +56,12 @@
                                      VerticalOptions="CenterAndExpand">
                             <BoxView HeightRequest="30"
                                  WidthRequest="30"
-                                 BackgroundColor="Black"
+                                 BackgroundColor="{Binding Colorfondo}"
                                  CornerRadius="15"
                                  VerticalOptions="Center"/>
                             <BoxView HeightRequest="30"
                                  WidthRequest="30"
-                                 BackgroundColor="Black"
+                                 BackgroundColor="{Binding Colorpoder}"
                                  CornerRadius="15"
                                  VerticalOptions="Center"/>
                         </StackLayout>
@@ -66,7 +71,7 @@
 
                     </StackLayout>
                     <StackLayout>
-                        <Label Text="#001"
+                        <Label Text="{Binding Nroorden}"
                                FontSize="30"
                                FontAttributes="Bold"
                                TextColor="White"/>

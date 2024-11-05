@@ -1,4 +1,5 @@
-﻿using MVVM_Seccion_3.Modelo;
+﻿using Firebase.Database.Offline;
+using MVVM_Seccion_3.Modelo;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -41,6 +42,13 @@ namespace MVVM_Seccion_3.VistaModelo.MVpokemon
         public INavigation Navigation { get; }
 
         #region PROCESOS
+        
+
+        public async Task Volver()
+        {
+            await Navigation.PopAsync();
+        }
+
 
         public async Task ProcesoAsynccrono()
         {
@@ -55,7 +63,7 @@ namespace MVVM_Seccion_3.VistaModelo.MVpokemon
         #endregion
 
         #region COMANDOS
-        public ICommand ProcesoAsyncommand => new Command(async () => await ProcesoAsynccrono());
+        public ICommand Volvercommand => new Command(async () => await Volver());
 
         public ICommand ProcesoSimplecommand => new Command(ProcesoSimple);
 

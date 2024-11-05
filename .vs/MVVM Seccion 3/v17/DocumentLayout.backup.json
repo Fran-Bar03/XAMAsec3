@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistamodelo\\mvpokemon\\vmlistapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistamodelo\\mvpokemon\\vmlistapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistamodelo\\mvpokemon\\vmdetallepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistamodelo\\mvpokemon\\vmdetallepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\registrarpokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\registrarpokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\listapokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\listapokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\listapokemon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\listapokemon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistamodelo\\mvpokemon\\vmregistropokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistamodelo\\mvpokemon\\vmregistropokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\modelo\\mpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\modelo\\mpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|c:\\users\\hachi\\desktop\\xamarin seccion 3\\mvvm seccion 3\\mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{A1B863B3-5BAE-4E45-863E-30A0781619D2}|MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3.csproj|solutionrelative:mvvm seccion 3\\mvvm seccion 3\\vistas\\pokemon\\detallepokemon.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detallepokemon.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
+              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
+              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:44:24.767Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -78,27 +87,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Listapokemon.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml.cs",
-              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml.cs",
-              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T06:43:56.351Z"
+              "DocumentIndex": 3,
+              "Title": "Registrarpokemon.xaml",
+              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Registrarpokemon.xaml",
+              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Registrarpokemon.xaml",
+              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Registrarpokemon.xaml",
+              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Registrarpokemon.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T04:40:42.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Detallepokemon.xaml",
               "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml",
               "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml",
               "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml",
               "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T06:43:42.856Z"
+              "WhenOpened": "2024-11-05T04:26:13.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VMregistropokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMregistropokemon.cs",
+              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMregistropokemon.cs",
+              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMregistropokemon.cs",
+              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMregistropokemon.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwHgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:38:40.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -108,60 +132,22 @@
               "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\Modelo\\Mpokemon.cs",
               "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Modelo\\Mpokemon.cs",
               "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\Modelo\\Mpokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T06:39:36.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VMdetallepokemon.cs",
-              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
-              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
-              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
-              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T06:28:40.332Z",
+              "WhenOpened": "2024-11-05T04:31:23.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Detallepokemon.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
-              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
-              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Detallepokemon.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Title": "VMdetallepokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
+              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
+              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
+              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMdetallepokemon.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T06:23:32.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Listapokemon.xaml",
-              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml",
-              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml",
-              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml*",
-              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\Vistas\\Pokemon\\Listapokemon.xaml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T06:14:53.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VMlistapokemon.cs",
-              "DocumentMoniker": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMlistapokemon.cs",
-              "RelativeDocumentMoniker": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMlistapokemon.cs",
-              "ToolTip": "C:\\Users\\Hachi\\Desktop\\Xamarin Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMlistapokemon.cs",
-              "RelativeToolTip": "MVVM Seccion 3\\MVVM Seccion 3\\VistaModelo\\MVpokemon\\VMlistapokemon.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T06:13:06.029Z",
+              "WhenOpened": "2024-11-05T04:26:06.777Z",
               "EditorCaption": ""
             }
           ]
